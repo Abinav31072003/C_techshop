@@ -1,0 +1,461 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|c:\\users\\abinav krishna\\source\\repos\\techshop_assignment\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|c:\\users\\abinav krishna\\source\\repos\\techshop_assignment\\task1\\utility\\databaseutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|solutionrelative:task1\\utility\\databaseutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|c:\\users\\abinav krishna\\source\\repos\\techshop_assignment\\task1\\techshopapp\\techshopmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|solutionrelative:task1\\techshopapp\\techshopmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|c:\\users\\abinav krishna\\source\\repos\\techshop_assignment\\task1\\services\\orderdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|solutionrelative:task1\\services\\orderdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|c:\\users\\abinav krishna\\source\\repos\\techshop_assignment\\task1\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|solutionrelative:task1\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|c:\\users\\abinav krishna\\source\\repos\\techshop_assignment\\task1\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|solutionrelative:task1\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|c:\\users\\abinav krishna\\source\\repos\\techshop_assignment\\task1\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|solutionrelative:task1\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|c:\\users\\abinav krishna\\source\\repos\\techshop_assignment\\task1\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|solutionrelative:task1\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|c:\\users\\abinav krishna\\source\\repos\\techshop_assignment\\task1\\repository\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|solutionrelative:task1\\repository\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|c:\\users\\abinav krishna\\source\\repos\\techshop_assignment\\task1\\repository\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|solutionrelative:task1\\repository\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|c:\\users\\abinav krishna\\source\\repos\\techshop_assignment\\task1\\repository\\orderdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|solutionrelative:task1\\repository\\orderdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|c:\\users\\abinav krishna\\source\\repos\\techshop_assignment\\task1\\repository\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|solutionrelative:task1\\repository\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|c:\\users\\abinav krishna\\source\\repos\\techshop_assignment\\task1\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|solutionrelative:task1\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|c:\\users\\abinav krishna\\source\\repos\\techshop_assignment\\task1\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|solutionrelative:task1\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|c:\\users\\abinav krishna\\source\\repos\\techshop_assignment\\task1\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|solutionrelative:task1\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|c:\\users\\abinav krishna\\source\\repos\\techshop_assignment\\task1\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|solutionrelative:task1\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|c:\\users\\abinav krishna\\source\\repos\\techshop_assignment\\task1\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|solutionrelative:task1\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|c:\\users\\abinav krishna\\source\\repos\\techshop_assignment\\task1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|solutionrelative:task1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|c:\\users\\abinav krishna\\source\\repos\\techshop_assignment\\task1\\exceptions\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|solutionrelative:task1\\exceptions\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|c:\\users\\abinav krishna\\source\\repos\\techshop_assignment\\task1\\exceptions\\ordernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|solutionrelative:task1\\exceptions\\ordernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|c:\\users\\abinav krishna\\source\\repos\\techshop_assignment\\task1\\exceptions\\orderdetailsnotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|solutionrelative:task1\\exceptions\\orderdetailsnotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|c:\\users\\abinav krishna\\source\\repos\\techshop_assignment\\task1\\exceptions\\inventorynotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|solutionrelative:task1\\exceptions\\inventorynotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|c:\\users\\abinav krishna\\source\\repos\\techshop_assignment\\task1\\exceptions\\datavalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|solutionrelative:task1\\exceptions\\datavalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|c:\\users\\abinav krishna\\source\\repos\\techshop_assignment\\task1\\exceptions\\customernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|solutionrelative:task1\\exceptions\\customernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|c:\\users\\abinav krishna\\source\\repos\\techshop_assignment\\task1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|solutionrelative:task1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|c:\\users\\abinav krishna\\source\\repos\\techshop_assignment\\task1\\task1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6FE25DF4-FF09-4376-9806-D0BD270990C1}|task1\\task1.csproj|solutionrelative:task1\\task1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "task1\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Services\\CustomerService.cs",
+              "RelativeToolTip": "task1\\Services\\CustomerService.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAkwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:20:39.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Services\\InventoryService.cs",
+              "RelativeDocumentMoniker": "task1\\Services\\InventoryService.cs",
+              "ToolTip": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Services\\InventoryService.cs",
+              "RelativeToolTip": "task1\\Services\\InventoryService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwM4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:22:26.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderdetailsService.cs",
+              "DocumentMoniker": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Services\\OrderdetailsService.cs",
+              "RelativeDocumentMoniker": "task1\\Services\\OrderdetailsService.cs",
+              "ToolTip": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Services\\OrderdetailsService.cs",
+              "RelativeToolTip": "task1\\Services\\OrderdetailsService.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAYwG0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:22:12.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "task1\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Services\\OrderService.cs",
+              "RelativeToolTip": "task1\\Services\\OrderService.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAiwK4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:21:39.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "task1\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Services\\ProductService.cs",
+              "RelativeToolTip": "task1\\Services\\ProductService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwIgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:21:22.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Techshopmanage.cs",
+              "DocumentMoniker": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\techshopapp\\Techshopmanage.cs",
+              "RelativeDocumentMoniker": "task1\\techshopapp\\Techshopmanage.cs",
+              "ToolTip": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\techshopapp\\Techshopmanage.cs",
+              "RelativeToolTip": "task1\\techshopapp\\Techshopmanage.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAqwDgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:18:29.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseUtility.cs",
+              "DocumentMoniker": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Utility\\DatabaseUtility.cs",
+              "RelativeDocumentMoniker": "task1\\Utility\\DatabaseUtility.cs",
+              "ToolTip": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Utility\\DatabaseUtility.cs",
+              "RelativeToolTip": "task1\\Utility\\DatabaseUtility.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:47:21.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Program.cs",
+              "RelativeDocumentMoniker": "task1\\Program.cs",
+              "ToolTip": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Program.cs",
+              "RelativeToolTip": "task1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T15:31:27.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Repository\\ProductsRepository.cs",
+              "RelativeDocumentMoniker": "task1\\Repository\\ProductsRepository.cs",
+              "ToolTip": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Repository\\ProductsRepository.cs",
+              "RelativeToolTip": "task1\\Repository\\ProductsRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:08:41.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrdersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Repository\\OrdersRepository.cs",
+              "RelativeDocumentMoniker": "task1\\Repository\\OrdersRepository.cs",
+              "ToolTip": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Repository\\OrdersRepository.cs",
+              "RelativeToolTip": "task1\\Repository\\OrdersRepository.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwE8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:09:12.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderdetailsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Repository\\OrderdetailsRepository.cs",
+              "RelativeDocumentMoniker": "task1\\Repository\\OrderdetailsRepository.cs",
+              "ToolTip": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Repository\\OrderdetailsRepository.cs",
+              "RelativeToolTip": "task1\\Repository\\OrderdetailsRepository.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:10:00.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InventoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Repository\\InventoryRepository.cs",
+              "RelativeDocumentMoniker": "task1\\Repository\\InventoryRepository.cs",
+              "ToolTip": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Repository\\InventoryRepository.cs",
+              "RelativeToolTip": "task1\\Repository\\InventoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:10:32.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "task1\\Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "task1\\Repository\\CustomerRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwD4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:30:04.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "task1\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Models\\Products.cs",
+              "RelativeToolTip": "task1\\Models\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:35:11.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "task1\\Models\\Orders.cs",
+              "ToolTip": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Models\\Orders.cs",
+              "RelativeToolTip": "task1\\Models\\Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:35:05.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Orderdetails.cs",
+              "DocumentMoniker": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Models\\Orderdetails.cs",
+              "RelativeDocumentMoniker": "task1\\Models\\Orderdetails.cs",
+              "ToolTip": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Models\\Orderdetails.cs",
+              "RelativeToolTip": "task1\\Models\\Orderdetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:35:00.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "task1\\Models\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Models\\Inventory.cs",
+              "RelativeToolTip": "task1\\Models\\Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:34:54.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "task1\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Models\\Customer.cs",
+              "RelativeToolTip": "task1\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:34:39.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Exceptions\\ProductNotFoundException.cs",
+              "RelativeDocumentMoniker": "task1\\Exceptions\\ProductNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Exceptions\\ProductNotFoundException.cs",
+              "RelativeToolTip": "task1\\Exceptions\\ProductNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:10:43.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Exceptions\\OrderNotFoundException.cs",
+              "RelativeDocumentMoniker": "task1\\Exceptions\\OrderNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Exceptions\\OrderNotFoundException.cs",
+              "RelativeToolTip": "task1\\Exceptions\\OrderNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:10:16.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderDetailsNotFound.cs",
+              "DocumentMoniker": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Exceptions\\OrderDetailsNotFound.cs",
+              "RelativeDocumentMoniker": "task1\\Exceptions\\OrderDetailsNotFound.cs",
+              "ToolTip": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Exceptions\\OrderDetailsNotFound.cs",
+              "RelativeToolTip": "task1\\Exceptions\\OrderDetailsNotFound.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:09:44.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InventoryNotFound.cs",
+              "DocumentMoniker": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Exceptions\\InventoryNotFound.cs",
+              "RelativeDocumentMoniker": "task1\\Exceptions\\InventoryNotFound.cs",
+              "ToolTip": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Exceptions\\InventoryNotFound.cs",
+              "RelativeToolTip": "task1\\Exceptions\\InventoryNotFound.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:09:08.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DataValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Exceptions\\DataValidationException.cs",
+              "RelativeDocumentMoniker": "task1\\Exceptions\\DataValidationException.cs",
+              "ToolTip": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Exceptions\\DataValidationException.cs",
+              "RelativeToolTip": "task1\\Exceptions\\DataValidationException.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:08:43.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Exceptions\\CustomerNotFoundException.cs",
+              "RelativeDocumentMoniker": "task1\\Exceptions\\CustomerNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\Exceptions\\CustomerNotFoundException.cs",
+              "RelativeToolTip": "task1\\Exceptions\\CustomerNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:08:06.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\appsettings.json",
+              "RelativeDocumentMoniker": "task1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\appsettings.json",
+              "RelativeToolTip": "task1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-24T14:47:37.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "task1.csproj",
+              "DocumentMoniker": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\task1.csproj",
+              "RelativeDocumentMoniker": "task1\\task1.csproj",
+              "ToolTip": "C:\\Users\\Abinav Krishna\\source\\repos\\techshop_assignment\\task1\\task1.csproj",
+              "RelativeToolTip": "task1\\task1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-23T17:32:16.334Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
